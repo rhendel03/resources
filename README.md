@@ -7,6 +7,7 @@
   * Express and JWT - https://medium.com/dev-bits/a-guide-for-adding-jwt-token-based-authentication-to-your-single-page-nodejs-applications-c403f7cf04f4
   * React and Express (Token Based Authentication) - https://medium.com/@faizanv/authentication-for-your-react-and-express-application-w-json-web-tokens-923515826e0
   * Callbacks / Async functions https://github.com/maxogden/art-of-node#callbacks
+  * Real world example of an express app https://github.com/gothinkster/node-express-realworld-example-app
   
 ## Wordpress
   
