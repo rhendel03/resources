@@ -16,12 +16,15 @@
   * WPML and ACF - https://wpml.org/documentation/related-projects/translate-sites-built-with-acf/
   * EZ Lazy load - https://wordpress.org/plugins/lazy-load/
   
-## Algorithms, Utilities, etc...
-
+## General
+  * API Design - https://hackernoon.com/restful-api-design-step-by-step-guide-2f2c9f9fcdbf
+  
+## Algorithms
   * Saltrounds - https://stackoverflow.com/questions/46693430/what-are-salt-rounds-and-how-are-salts-stored-in-bcrypt
   * Visualized Sorting methods - https://imgur.com/gallery/GD5gi
-  * Diff Checker - https://www.diffchecker.com/
-
+  
 ## Tools 
 
   * Insominia default headers - https://www.npmjs.com/package/insomnia-plugin-default-headers
+  * Diff Checker - https://www.diffchecker.com/
+  
