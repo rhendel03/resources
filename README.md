@@ -28,4 +28,5 @@
 
   * Insominia default headers - https://www.npmjs.com/package/insomnia-plugin-default-headers
   * Diff Checker - https://www.diffchecker.com/
+  * Git Submodules - https://stackoverflow.com/questions/1979167/git-submodule-update/1979194#1979194
   
