@@ -11,6 +11,7 @@
   * Git gud in error handling - https://medium.com/tech-buddy/handling-errors-in-express-gracefully-4bf289ddf9a1
   * EZ express API Gateway - https://hackernoon.com/creating-simple-api-gateway-using-node-js-6d5933c214b8
   * What Exports? - https://til.hashrocket.com/posts/xrtndhi1hi-default-and-named-exports-from-the-same-module
+  * Mongoose Populate - https://www.chunkofcode.net/how-to-deep-populate-using-mongodb-and-mongoose/
   
 ## Wordpress
   
